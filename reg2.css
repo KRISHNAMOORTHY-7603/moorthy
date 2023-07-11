@@ -1,0 +1,89 @@
+li1{
+    text-shadow: 1px blue 1px red;
+    display: inline;
+    padding: 0px 50px ; 
+}
+li{
+    
+    display: inline;
+    padding: 0px 50px ; 
+}
+
+.container{
+    background-color: rgb(245, 212, 26);
+    padding: 20px 0px 10px 0px;
+}
+h1{
+    color: rgb(240, 228, 228)
+    text-shadow: 1px black 1px blueviolet;
+}
+li1:hover{
+    color: rgb(67, 210, 253);
+    font-size:20px;
+}
+
+h2{
+   font-weight: 200;
+   font-family:'Times New Roman', Times, serif;
+    padding:0px 0px 20px 0px;
+}
+
+ul{
+   
+    display: inline;
+    
+}
+h3{
+    font-weight: 200;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img{
+    
+  width: 150px;
+  height: 150px;
+  border-radius: 50px;
+}
+a{
+    color: rgb(223, 59, 59);
+    text-decoration:none;
+    
+}
+section1{
+    font-size: large;
+}
+
+li:hover{
+
+    color: rgb(255, 0, 200);
+}
+
+.con{
+    padding: 10px;
+     background-color:rgb(152, 224, 236);
+}
+body{
+    background-color: rgb(146, 218, 139);
+}
+footer{
+    font-size: large;
+    margin: 0px;
+   padding : 2px;
+    background-color: rgb(5, 36, 16);
+}
+.ts{
+    background-color: rgb(84, 238, 64);
+}
+div2:hover{
+    font-size: 15px;
+    color:blueviolet;
+}
+div3:hover{
+    font-size: 15px;
+    color: rgb(122, 6, 6);
+}
+
+title{
+    background-color: black;
+    
+}
